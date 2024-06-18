@@ -1,2 +1,10 @@
 
 .idea/inspectionProfiles/profiles_settings.xml
+*.xml
+.idea/transaction-warehouse.iml
+/shelf/
+/workspace.xml
+.DS_Store
+.idea
+.idea/*
+/shelf/
